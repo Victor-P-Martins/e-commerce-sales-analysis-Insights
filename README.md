@@ -38,3 +38,6 @@ A análise desses dados foi feita utilizando o Juyter Notebook e Python 3. Foram
 
 # 5. Contatos
 
+- Github: https://github.com/Victor-P-Martins
+- Linkedin: https://www.linkedin.com/in/victor-p-martins-a870b7125/
+- E-mail: vmartins.eng@hotmail.com
